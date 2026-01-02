@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "犬とバカ猫",
+  "base_artist": "セカンドバッカー",
+  "createdAt": "2026-01-02T14:06:32.569364Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "犬とバカ猫",
+      "artist": "セカンドバッカー",
+      "has_synced": false,
+      "path": "select/pl_01_犬とバカ猫_セカンドバッカー.txt"
+    }
+  ]
+}
